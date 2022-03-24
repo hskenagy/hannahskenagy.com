@@ -2,8 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: A collection of collaborative projects (field measurements, chamber observations, etc.) Hannah has contributed to.
+nav: true 
 display_categories: [work, fun]
 horizontal: false
 ---

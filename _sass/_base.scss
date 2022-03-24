@@ -4,7 +4,11 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+span, h1 {
+  color: var(--global-theme-color);
+}
+
+p, h2, h3, h4, h5, h6, em, div, li, strong {
   color: var(--global-text-color);
 }
 
@@ -154,7 +158,7 @@ blockquote {
     }
   }
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
@@ -271,7 +275,7 @@ footer.fixed-bottom {
   a {
     color: var(--global-footer-link-color);
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-hover-color);
       text-decoration: none;
     }
   }

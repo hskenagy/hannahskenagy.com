@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: FIREX-AQ 
+description: Fire Influence on Regional to Global Environments and Air Quality
+img: assets/img/firex-aq_logo.png
+redirect: https://csl.noaa.gov/projects/firex-aq/
 importance: 1
 category: work
 ---

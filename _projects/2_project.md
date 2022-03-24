@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: MOONLIGHT
+description: Monoterpene and Oxygenated aromatic Oxidation at Night and under LIGHTs
+img: assets/img/moonlight.png
+redirect: https://www2.acom.ucar.edu/xuan-zhang-leads-chamber-study-monoterpene-and-oxygenated-aromatics
+importance: 1
 category: work
 ---
 

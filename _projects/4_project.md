@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: WINTER
+description: Wintertime INvestigation of Transport, Emissions, and Reactivity
+img: assets/img/winter.png
+redirect: https://data.eol.ucar.edu/project/WINTER
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
