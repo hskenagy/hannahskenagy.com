@@ -6,4 +6,4 @@ title: CV
 nav: true
 ---
 
-<object data="../assets/pdf/cv_220312.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/pdf/Kenagy_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
