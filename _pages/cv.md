@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pdf
 permalink: /CV/
 title: CV
 #description: HSK's CV 
