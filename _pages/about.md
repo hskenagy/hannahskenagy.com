@@ -20,6 +20,6 @@ Hannah S. Kenagy (she/her) is an NSF Postdoctoral Research Fellow studying atmos
 
 During her PhD, Hannah used a combination of airborne field observations and computational modeling techniques to study the chemistry of nitrogen oxides in urban environments, with a particular focus on nighttime and condensed phase chemistry.  Click [here]({{ site.url }}/assets/pdf/dissertation.pdf) to read Hannah's PhD dissertation.
 
-As a post-doc, Hannah is integrating modeling and laboratory studies to disentangle the effects of multi-generation oxidation on the formation of atmospheric organic aerosols.
+As a post-doc, Hannah is integrating modeling and laboratory studies to improve our understanding of atmospheric organic aerosol formation chemistry.
 
 **Contact**: [hskenagy (at) mit (dot) edu](mailto:hskenagy@mit.edu)
