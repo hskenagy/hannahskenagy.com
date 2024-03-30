@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Hannah will be starting as an Assistant Professor of Chemistry and the University of Minnesota in January 2025. Please get in touch if you are interested in working in the group as a student or post-doc!**
+**Hannah will be starting as an Assistant Professor of Chemistry at the University of Minnesota in January 2025. Please get in touch if you are interested in working in the group as a student or post-doc!**
 
 Hannah S. Kenagy (she/her) is an NSF Postdoctoral Research Fellow studying atmospheric chemistry at MIT with [Prof. Jesse Kroll](http://krollgroup.mit.edu/){:target="_blank"}{:rel="noopener noreferrer"} and [Prof. Colette Heald](https://www.healdgroupmit.com/){:target="_blank"}{:rel="noopener noreferrer"}.  Previously, Hannah received a BS in Chemistry from the University of Chicago in 2016 and a PhD in Chemistry with [Prof. Ron Cohen](https://cohen.cchem.berkeley.edu/){:target="_blank"}{:rel="noopener noreferrer"} from UC Berkeley in 2021.  Hannah's work uses an integrated combination of measurement and modeling tools to study atmospheric chemical pathways that contribute to the production and fate of air pollutants globally.
 
